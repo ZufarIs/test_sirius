@@ -1,0 +1,6 @@
+python-docx
+openai
+python-dotenv
+selenium
+smolagents
+tiktoken
